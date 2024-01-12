@@ -1,7 +1,7 @@
 # Global Economic Dashboard
 
 
-This GitHub repository hosts the code for the "Global Economic Dashboard" project. This interactive Shiny app provides a comprehensive overview of key economic indicators for selected countries, predicting education expenditure (% GDP) using machine learning. The project utilizes R Shiny, CSS for styling, and includes a PowerBI report.
+This GitHub repository hosts the code for the "G20_Countries_Analysis" project. This interactive Shiny app provides a comprehensive overview of key economic indicators for selected countries, predicting education expenditure (% GDP) using machine learning. The project utilizes R Shiny, CSS for styling, and includes a PowerBI report.
 
 ## Table of Contents
 - [Features](#features)
@@ -18,14 +18,14 @@ This GitHub repository hosts the code for the "Global Economic Dashboard" projec
 3. `ML_education_expenditure_model.R`: The R script containing the machine learning model for predicting education expenditure.
 4. `data/`: Folder containing the dataset and any additional data files.
 5. `www/`: Folder for storing static assets like images or custom CSS.
-6. `R_project.pbix/`: Contains Power BI report File.
+6. `R project.pbix/`: Contains Power BI report File.
 
 ## Installation
 
 There is no installation required for this project. Simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/khechraay011/G20_Countries_Analysis.git
+git clone https://github.com/khechraay11/G20_Countries_Analysis.git
 ```
 
 ## Usage
