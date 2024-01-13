@@ -1,5 +1,6 @@
 # Global Economic Dashboard
-
+![G20_Countries_Analysis](./K35S52./www./Screenshot1.jpg)
+![G20_Countries_Analysis](./K35S52./www./Screenshot2.png)
 
 This GitHub repository hosts the code for the "G20_Countries_Analysis" project. This interactive Shiny app provides a comprehensive overview of key economic indicators for selected countries, predicting education expenditure (% GDP) using machine learning. The project utilizes R Shiny, CSS for styling, and includes a PowerBI report.
 
@@ -34,6 +35,7 @@ Run the Shiny app: `shiny::runApp()`
 Open the PowerBI report to see the Analysis.
 
 ## PowerBI Report
+![G20_Countries_Analysis](./K35S52./www./Screenshot3.jpg)
 
 Check out the PowerBI report for visualizations and insights complementing the Shiny app.
 
